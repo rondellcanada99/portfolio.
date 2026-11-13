@@ -168,3 +168,6 @@ img{max-width:100%;display:block}
   *{transition:none!important}
   .reveal{opacity:1;transform:none}
 }
+
+
+.resume-buttons { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 16px; }
